@@ -1,0 +1,12 @@
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\bin\Debug\net5.0\Tracer.deps.json
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\bin\Debug\net5.0\Tracer.dll
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\bin\Debug\net5.0\ref\Tracer.dll
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\bin\Debug\net5.0\Tracer.pdb
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\obj\Debug\net5.0\Tracer.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\obj\Debug\net5.0\Tracer.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\obj\Debug\net5.0\Tracer.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\obj\Debug\net5.0\Tracer.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\obj\Debug\net5.0\Tracer.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\obj\Debug\net5.0\Tracer.dll
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\obj\Debug\net5.0\ref\Tracer.dll
+D:\OneDrive\Рабочий стол\СПП1\Tracer-main\Tracer\obj\Debug\net5.0\Tracer.pdb

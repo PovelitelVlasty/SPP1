@@ -1,0 +1,40 @@
+<TempResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <root>
+    <thread id="7" time="110">
+      <method name="OneThread" classname="Foo" time="110" />
+    </thread>
+    <thread id="6" time="1282">
+      <method name="WithThreeUpperMethod" classname="Foo" time="1282">
+        <method name="WithThreeNestedMethod" classname="Foo" time="422">
+          <method name="WithTwoNestedMethod" classname="Foo" time="422">
+            <method name="WithOneNestedMethod" classname="Foo" time="422">
+              <method name="InnerMethod" classname="Bar" time="110" />
+            </method>
+          </method>
+        </method>
+        <method name="WithTwoNestedMethod" classname="Foo" time="422">
+          <method name="WithOneNestedMethod" classname="Foo" time="422">
+            <method name="InnerMethod" classname="Bar" time="110" />
+          </method>
+        </method>
+        <method name="WithOneNestedMethod" classname="Foo" time="438">
+          <method name="InnerMethod" classname="Bar" time="125" />
+        </method>
+      </method>
+    </thread>
+    <thread id="1" time="110">
+      <method name="OneThread" classname="Foo" time="110" />
+    </thread>
+    <thread id="5" time="422">
+      <method name="WithOneNestedMethod" classname="Foo" time="422">
+        <method name="InnerMethod" classname="Bar" time="109" />
+      </method>
+    </thread>
+    <thread id="8" time="110">
+      <method name="InnerMethod" classname="Bar" time="110" />
+    </thread>
+    <thread id="9" time="110">
+      <method name="InnerMethod" classname="Bar" time="110" />
+    </thread>
+  </root>
+</TempResult>
